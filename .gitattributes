@@ -1,2 +1,33 @@
-# Auto detect text files and perform LF normalization
+﻿# Auto detect text files and perform LF normalization
 * text=auto
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8BOM">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agencia de Fiestas - Tu Mejor Evento</title>
+    <style>
+        /* Aquí puedes agregar estilos CSS básicos */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header, nav, main, footer {
+            margin: 0 auto;
+            max-width: 1200px;
+            padding: 20px;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+</html>
