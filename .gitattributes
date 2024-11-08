@@ -1,2 +1,25 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<section id="productos">
+            <h2>Productos en Alquiler</h2>
+            <ul>
+                <li>Carpas y estructuras</li>
+                <li>Mobiliario para eventos</li>
+                <li>Equipos de sonido e iluminación</li>
+                <li>Vajilla y cristalería</li>
+            </ul>
+        </section>
+
+        <section id="contacto">
+            <h2>Contacto</h2>
+            <p>¿Listo para planear tu próximo evento? ¡Contáctanos!</p>
+            <p>Email: info@tumejorenvento.com</p>
+            <p>Teléfono: (123) 456-7890</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Agencia de Fiestas - Tu Mejor Evento. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
