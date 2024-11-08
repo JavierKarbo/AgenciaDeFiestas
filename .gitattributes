@@ -1,2 +1,22 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<body>
+    <header>
+        <h1>Agencia de Fiestas - Tu Mejor Evento</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#inicio">Inicio</a></li>
+            <li><a href="#acerca-de">Acerca de</a></li>
+            <li><a href="#servicios">Servicios</a></li>
+            <li><a href="#productos">Productos</a></li>
+            <li><a href="#contacto">Contacto</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="inicio">
+            <h2>Bienvenidos a Tu Mejor Evento</h2>
+            <p>Creamos experiencias inolvidables para tus celebraciones más especiales.</p>
+        </section>
